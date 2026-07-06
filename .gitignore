@@ -1,0 +1,10 @@
+.idea
+*.jar
+/out
+
+# File transfer directories
+downloads/
+temp_transfers/
+
+# Test files
+*.txt
